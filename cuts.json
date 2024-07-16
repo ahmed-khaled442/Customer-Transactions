@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "customer_id": 1,
+    "date": "2022-01-01",
+    "amount": 1000,
+    "amount2": 1000,
+    "name": "ahmed khaled",
+    "phone": 11116456,
+    "eimail": "ahmedkhaled@yahoo.com"
+  },
+  {
+    "id": 1,
+    "customer_id": 1,
+    "date": "2022-01-01",
+    "amount": 12000,
+    "amount2": 1000,
+    "name": "ahmed khaled",
+    "phone": 121156456,
+    "eimail": "ahmedwali@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 500,
+    "amount2": 5400,
+    "name": "ali moustaf",
+    "phone": 10113456,
+    "eimail": "aliwali@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 2000,
+    "amount2": 72000,
+    "name": "shima seyf",
+    "phone": 15516456,
+    "eimail": "shimaseyf@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 223000,
+    "amount2": 22300,
+    "name": "mohamed ahmed",
+    "phone": 12216456,
+
+    "eimail": "shimaseyf@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 26000,
+    "amount2": 2000,
+    "name": "nour khaled",
+    "phone": 13116456,
+    "eimail": "nourkhaled23@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 3000,
+    "amount2": 32000,
+    "name": "moanded mohamed",
+    "phone": 11216456,
+    "eimail": "moandedmohamed46@yahoo.com"
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "date": "2022-01-02",
+    "amount": 300000,
+    "amount2": 60000,
+    "name": "abo baker",
+    "phone": 11216456,
+    "eimail": "abobaker@yahoo.com"
+  }
+]

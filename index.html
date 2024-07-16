@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="stylesheet" href="./css/normalize.css" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body>
+    <!-- home -->
+    <section>
+      <div id="home" class="container d-block">
+        <h1>Customer Transactions</h1>
+        <div class="d-flex align-content-center">
+          <input
+            type="text"
+            id="nameFilter"
+            placeholder="Filter by name"
+            class="w-50 form-control"
+          />
+          <input
+            type="number"
+            id="amountFilter"
+            class="form-control w-50"
+            placeholder="Filter by amount"
+          />
+        </div>
+
+        <ul id="box" class="transaction-list">
+          <!-- Add more transactions as needed -->
+        </ul>
+      </div>
+    </section>
+    <!-- dtails -->
+    <div id="detailes" class="container d-none">
+      <!-- <h1>Customer Transactions for One Day</h1>
+      <div class="customer-info">
+        <h2>Customer Name: John Doe</h2>
+        <p>Email: johndoe@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Date: 2024-07-15</p>
+      </div>
+
+      <h2>Transaction History</h2>
+      <ul class="transaction-list">
+        <li class="transaction-item">
+          <span class="transaction-description">Purchase at Store A</span>
+          <span class="transaction-amount">$150.00</span>
+        </li>
+        <li class="transaction-item">
+          <span class="transaction-description">Purchase at Store B</span>
+          <span class="transaction-amount">$200.00</span>
+        </li>
+      </ul>
+      <h2>Transaction Amounts</h2>
+      <canvas id="transactionChart"></canvas> -->
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>
